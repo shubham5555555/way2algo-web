@@ -3,17 +3,17 @@ const beg = [
     {
         "title": "Trading Platform",
         "desc": "We offer low fees and fast execution times, so you can make the most of it.",
-        "img": "/src/assets/images/beg1.webp"
+        "img": "/beg1.webp"
     },
     {
         "title": "Educational Community",
         "desc": "We offer a range of educational resources to help you learn more about trading.",
-        "img": "/src/assets/images/beg2.webp"
+        "img": "/beg2.webp"
     },
     {
         "title": "Market Analysis Tool",
         "desc": "Our platform provides up-to-date news and analysis on the crypto markets.",
-        "img": "/src/assets/images/beg3.webp"
+        "img": "/beg3.webp"
     },
 ]
 </script>
